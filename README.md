@@ -56,7 +56,7 @@ python bcprediction.py
 #### The following figures are included in the project:
 
 * Figure_1.png:
-  ![alt text]([http://url/to/img.png](https://github.com/alinanjum1999/Breast-Cancer-using-KNN-and-Cross-Validation/blob/main/Figure_1.png))
+  ![alt text](Figure_1.png)
 * Figure_2.png:
   ![alt text](http://url/to/img.png)
 * Figure_3.png:
