@@ -55,12 +55,15 @@ python bcprediction.py
 ### Visualizations
 #### The following figures are included in the project:
 
-* Figure_1.png: Visual representation of KNN model performance.
-* Figure_2.png: Cross-validation results and performance metrics.
-* Figure_3.png: Additional insights and results.
-* bc at correlation.png: Correlation analysis of features in the dataset.
-* Code Details
-* bcprediction.py
+* Figure_1.png:
+  ![alt text]([http://url/to/img.png](https://github.com/alinanjum1999/Breast-Cancer-using-KNN-and-Cross-Validation/blob/main/Figure_1.png))
+* Figure_2.png:
+  ![alt text](http://url/to/img.png)
+* Figure_3.png:
+  ![alt text](http://url/to/img.png)
+* bc at correlation.png:
+  ![alt text](http://url/to/img.png)
+
 ### This script performs the following tasks:
 
 * Loads the dataset from data.csv.
