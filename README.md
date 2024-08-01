@@ -55,14 +55,14 @@ python bcprediction.py
 ### Visualizations
 #### The following figures are included in the project:
 
-* Figure_1.png:
+* Figure_1.png: <br/>
   ![alt text](Figure_1.png)
-* Figure_2.png:
-  ![alt text](http://url/to/img.png)
-* Figure_3.png:
-  ![alt text](http://url/to/img.png)
-* bc at correlation.png:
-  ![alt text](http://url/to/img.png)
+* Figure_2.png:<br/>
+  ![alt text](Figure_2.png)
+* Figure_3.png: <br/>
+  ![alt text](Figure_3.png)
+* bc at correlation.png: <br/>
+  ![alt text](bc_at_correlation.png)
 
 ### This script performs the following tasks:
 
