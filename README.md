@@ -62,7 +62,7 @@ python bcprediction.py
 * Figure_3.png: <br/>
   ![alt text](Figure_3.png)
 * bc at correlation.png: <br/>
-  ![alt text](bc at correlation.png)
+  ![alt text](bc_at_correlation.png)
 
 ### This script performs the following tasks:
 
